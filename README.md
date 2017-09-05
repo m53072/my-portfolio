@@ -1,2 +1,3 @@
-# my-portfolio
-Pro Portfolio
+# Matt K Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS
