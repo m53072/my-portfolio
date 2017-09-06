@@ -1,0 +1,12 @@
+Version: 0.1
+
+phases:
+    build:
+      commands:
+        - echo Nothing to do yet
+artifacts:
+  Files:
+    - index.HTML
+    - favicon.ico
+    - styles/amin.CSS
+    - images/*
