@@ -1,4 +1,4 @@
-<!DOCTYPE htlm>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -12,8 +12,10 @@
 
     </script>
 
-    <script type="test/javascript">
+    <script type="test/babel" data-presets="latest">
 
+    const getMessage = (name) => `Welcome to Javascript, ${name}!`;
+    document.getElementById('content').textContent = getMessage("Matt")
     </script>
   </body>
 </html>
