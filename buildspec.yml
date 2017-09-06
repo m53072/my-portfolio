@@ -8,5 +8,5 @@ artifacts:
   Files:
     - index.html
     - favicon.ico
-    - styles/amin.css
+    - styles/main.css
     - images/*
